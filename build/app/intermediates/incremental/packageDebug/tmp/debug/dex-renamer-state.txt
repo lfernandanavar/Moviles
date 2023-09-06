@@ -1,0 +1,4 @@
+#Sun Sep 03 21:38:34 CDT 2023
+base.0=C\:\\Users\\lfern\\Desktop\\Octavo Semestre\\Programacion Movil y Servicios en la Nube\\practicauno\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
